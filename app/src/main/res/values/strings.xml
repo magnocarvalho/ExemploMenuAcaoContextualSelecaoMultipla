@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cadastro de Nomes</string>
+    <string name="alterar">Alterar</string>
+    <string name="Excluir">excluir</string>
+    <string name="novo">Novo</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="nome">Nome</string>
+    <string name="novo_nome">Novo Nome</string>
+    <string name="alterar_nome">Alterar Nome</string>
+    <string name="erro_nome_vazio">Nome não pode ser vazio!</string>
+
+    <plurals name="selecionado">
+        <item quantity="one">%d selecionado</item>
+        <item quantity="other">%d selecionados</item>
+    </plurals>
+</resources>
